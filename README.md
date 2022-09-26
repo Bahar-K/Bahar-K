@@ -1,15 +1,15 @@
 
+
 <h1 align="center">Hi 👋, I'm Bahar.</h1>
 <h3 align="center">I'm a first year Business Administration student at Yıldız Technical University. I'd like to improve my coding skills.</h3>
 
 - 🌱 I’m currently learning **Python**
-
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/910256387668463631/1024086927189753997/20201216_151523.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@bahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bahar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bosh" height="30" width="40" /></a>
+<a href="https://medium.com/@firstbahartime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@firstbahartime" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucqc8l11ubnv4vqfgz_10irq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucqc8l11ubnv4vqfgz_10irq" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/VkezDswB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VkezDswB" height="30" width="40" /></a>
 </p>
 
