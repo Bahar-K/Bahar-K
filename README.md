@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/baharkarakaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baharkarakaya" height="30" width="40" /></a>
 <a href="https://medium.com/@firstbahartime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@firstbahartime" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/VkezDswB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/VkezDswB" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/hosh](https://www.youtube.com/channel/UCQc8L11UBnV4VqFGZ_10IrQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hosh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCQc8L11UBnV4VqFGZ_10IrQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hosh" height="30" width="40" /></a>
 
 </p>
 
