@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bahar.</h1>
-<h3 align="center">I'm a first year student at Yıldız Technical University. I'd like to improve my coding skills.</h3>
+<h3 align="center">I'm a second year student at Yıldız Technical University. I'd like to improve my coding skills.</h3>
 
 - 🌱 I’m currently learning **Python**
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/910256387668463631/1024086927189753997/20201216_151523.jpg">
